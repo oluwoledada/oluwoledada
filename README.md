@@ -4,7 +4,7 @@ Hi 👋 My name is Oluwole Dada
 Software Engineer
 -----------------
 
-I'm a result-driven and focused Software Engineer with a solid educational background in Computer Science. I have demonstrable experience building responsive and robust web applications and websites. 
+I'm a Software Engineer with a solid educational background in Computer Science. I have demonstrable experience building responsive and robust web applications and websites. 
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [oluwoletaiwodada@gmail.com](mailto:oluwoletaiwodada@gmail.com)
