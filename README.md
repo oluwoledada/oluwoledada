@@ -6,6 +6,10 @@ Software Engineer
 
 I'm a Software Engineer with a solid educational background in Computer Science. I have demonstrable experience building responsive and robust web applications and websites. 
 
+I’m passionate about JavaScript, React.js, Next.js and everything in between. ⚛️
+
+Let's build cool things together! 👨‍💻
+
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [oluwoletaiwodada@gmail.com](mailto:oluwoletaiwodada@gmail.com)
 
