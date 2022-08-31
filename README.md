@@ -1,17 +1,10 @@
-Hi 👋 My name is Oluwole Dada
+Hi 👋 Olu here
 =============================
 
-Software Engineer
------------------
+I'm a Software Engineer with a solid educational background in Computer Science and diverse skillset. 
 
-I’m a Software Engineer with a solid educational background in Computer Science. 
+I have demonstrable experience building responsive and robust websites and applications.
 
-I make websites, apps and a bunch of other stuff
-
-Let’s build cool things together! 👨‍💻
-
-* 🌍  I'm based in Abuja, Nigeria
-* ✉️  You can contact me at [oluwoletaiwodada@gmail.com](mailto:oluwoletaiwodada@gmail.com)
 
 ### Skills
 
