@@ -1,10 +1,7 @@
-Hi 👋 Olu here
+Hi 👋 My name is Oluwole Dada
 =============================
 
-I'm a Software Engineer with a solid educational background in Computer Science and diverse skillset. 
-
-I have demonstrable experience building responsive and robust websites and applications.
-
+I am a Software Engineer with a diverse skill set and experience building responsive and robust websites and applications. 
 
 ### Skills
 
