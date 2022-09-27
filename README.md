@@ -1,7 +1,7 @@
 Hi 👋 My name is Oluwole Dada
 =============================
 
-I am a Software Engineer with a diverse skill set and experience building responsive and robust websites and applications. 
+I am a Software Engineer with experience building fast, scalable, secure and user-friendly applications using web technologies—React, TypeScript, Vue and other JavaScript frameworks.
 
 ### Skills
 
