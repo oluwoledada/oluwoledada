@@ -1,9 +1,7 @@
-Hi 👋 My name is Oluwole Dada
+Hi 👋 Olu here.
 =============================
 
-I am a Software Engineer with experience building fast, scalable, secure and user-friendly applications using web technologies—React, TypeScript, Vue, NuxtJS, and other JavaScript frameworks.
-
-I have experience with multilingual sites and best practices across engineering and design.
+Experienced Software Engineer skilled in React, TypeScript, Vue, and NuxtJS, focusing on building fast, scalable, secure, and user-friendly web applications, including multilingual sites. Committed to engineering and design best practices, I bring a proven track record of delivering high-quality solutions and collaborating effectively within teams.
 
 ### Skills
 
