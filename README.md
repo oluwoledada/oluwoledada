@@ -1,7 +1,7 @@
 Hi 👋 My name is Olu.
 =============================
 
-I am an experienced Software Engineer with expertise in React, TypeScript, Vue, NuxtJS and other modern web tools and technologies. I am passionate about building fast, scalable, secure, and user-friendly web applications, including multilingual sites. With a solid commitment to engineering and design best practices, I have a proven track record of delivering high-quality solutions and collaborating effectively within teams.
+I am an experienced Software Engineer with expertise in React, TypeScript, Vue, NuxtJS and other modern tools and technologies. I am passionate about building fast, scalable, secure, and user-friendly web applications, including multilingual sites. With a solid commitment to engineering and design best practices, I have a proven track record of delivering high-quality solutions and collaborating effectively within teams.
 
 ### Skills
 
