@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olu.
+Hi there,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Olu here.
 ============================================================================================================================
-
-Software Engineer
------------------
 
 Experienced Software Engineer with a solid educational background in Computer Science. Skilled in JavaScript, Vue.js, NuxtJS, TypeScript, React.js, PHP, Laravel and other modern tools and technologies. Passionate about building fast, scalable, secure, and user-friendly web applications, including multilingual sites. Proven track record of high-quality solutions and effective team collaboration.
 
