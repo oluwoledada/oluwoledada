@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer & Web Developer
 ---------------------------------
 
-I develop websites, web applications, and a range of solutions in between, spanning e-commerce, fintech, and cloud-based systems. I use modern tools and frameworks to deliver fast, scalable, and user-friendly experiences.
+I develop websites, web applications, and a range of solutions in between, spanning e-commerce, fintech, and cloud-based systems.
 
 ### Skills & Tools  
 Technologies I use to build, scale, and ship software across the web:
