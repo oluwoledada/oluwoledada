@@ -1,10 +1,10 @@
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Oluwole Dada
 ====================================================================================================================================
 
-Software Craftsman
+Software Engineer
 ---------------------------------
 
-I’m a Software Engineer passionate about building fast, scalable, and user-friendly digital products.
+I'm a Software Engineer focused on building fast, scalable, and user-friendly digital products using modern web technologies.
 
 ### Skills & Tools  
 Technologies I use to build, scale, and ship software across the web:
