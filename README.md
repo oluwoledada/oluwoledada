@@ -4,7 +4,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Software Engineer
 ---------------------------------
 
-I'm a Software Engineer focused on building fast, scalable, and user-friendly digital products using modern web technologies.
+I develop websites, web applications, and everything in between.
 
 ### Skills & Tools  
 Technologies I use to build, scale, and ship software across the web:
